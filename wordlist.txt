@@ -1,0 +1,1630 @@
+aliae: other
+aliās: other
+aquam: water
+aquā: water
+bēstia: beast
+bēstiae: beast/beasts
+bēstiās: beasts
+cadit: falls
+canis: dog
+centum: 100
+clamat: shouts
+cur: why?
+currit: runs
+decem: 10
+dicit: says
+dicunt: say
+ecce: behold!
+es: you are
+ēst: eats
+est: is
+estis: y'all are
+estne: is...?
+et: and
+felem: cat
+fera: fierce/wild
+es: you are
+sum: I am
+ferae: fierce/wild
+feram: fierce/wild
+ferum: fierce/wild
+ferus: fierce/wild
+fēlem: cat
+fēles: cat
+fēlēs: cat
+homo: human
+iacit: throws
+in: in/on/into
+iratus: angry
+ita: yeah
+leo: lion
+leonem: lion
+lupus: wolf
+lupōs: wolves
+magna: big
+magnam: big
+magnum: big
+maumat: meows
+mutant: change
+mutat: changes
+ovem: sheep
+ovis: sheep
+ovēs: sheep
+parva: little
+pisces: fish
+quia: because
+regem: king
+rex: king
+ridet: laughs
+robotica: robotic
+roboticam: robotic
+rugit: roars
+salit: jumps
+salve: hi!
+sed: but
+sum: I am
+sumit: picks up
+sunt: they are
+tam: so
+timent: they fear
+timet: fears
+timeō: I fear
+una: one
+vae: ahh!
+vero: truly
+videt: sees
+videō: I see
+volat: flies
+abest: co is gone/gone from/away from
+accipit: co receives
+ad: toward/to
+apertī: open
+audit: co hears
+canem: dog
+canibus: dogs (dat/abl pl)
+clamās: you shout
+cocoa: cocoa
+cocoā: cocoa (abl sg)
+consilium: plan/idea
+cuniculum: bunny
+dat: co gives
+de: down from/about
+deinde: then...
+ēdere: to eat
+eī: to him/her/it
+ā: by/away from
+agit: is doing/does
+agnoscit: recognized
+bonum: good
+conantur: they try
+domūs: homes
+ex: out from
+exit: leaves
+fabula: story/tale/fable
+factum: a thing that happened
+fessī: tired (nom pl), of the tired (gen sg)
+fiant: they might become
+habebat: had
+habet: has
+heus: hey!
+iam: now/still/already
+invitat: invites
+irata: angry
+is: he
+it: goes
+laetī: happy (nom pl), of the happy (gen sg)
+laetus: happy
+lectīcā: a comfortable box that important people are carried around in
+lectīcam: a comfortable box that important people are carried around in
+mē: me
+monstrum: monster
+non: not
+nunc: now
+portābant: carried
+portābit: will carry
+portāre: to carry
+portārī: to be carried
+portat: carries
+portātur: is carried
+possunt: can
+prima: first
+putat: thinks
+quid: what
+sē: he/she/itself (the subject of the sentence)
+suās: hers/his/its (the subject of the sentence)
+ut: so that/like
+venī: come!
+venit: comes
+aliquid: something
+agere: to do
+agunt: do
+alter: another/other
+altera: another/other
+amīca: friend
+amīcus: friend
+angiportō: alley
+caput: head
+depalmere: to slap
+depalmit: slaps
+discēdere: to leave
+ēdere: to eat
+ēdunt: eat
+esiciam: salmon
+felum: of the cats
+finis: end
+fugit: runs away
+habetne: does co have?
+horrent: shudder/bristle/stand on end
+laetae: happy
+lupī: wolves/of the wolf
+lupum: wolf
+maumant: meow
+mordet: bites
+noli: don't!
+pisce: with/by means of a fish
+piscem: fish
+piscis: fish
+quoque: also
+thunnus: tuna
+timent: fear
+timet: fears
+tum: then
+ululat: howls
+verō: truly, in truth, really
+vivus: alive
+vult: wants
+ab: away from/by
+alās: wings
+apud: next to/alongside/at
+aqua: water
+arbore: by means of/with the tree
+arboris: of the tree
+avēs: birds
+calidus: hot
+cantābat: sang
+cantābō: I'll sing
+cantō: I sing/am singing
+cantum: song
+clamābant: were shouting
+coffeā: with/by means of coffee
+coffeam: coffee
+crassum: fat
+cui: to whom
+culicida: mosquito
+culicidae: mosquitoes/of the mosquito/to the mosquito
+culicidīs: to the mosquitos/by means of the mosquitos
+cum: with/when
+dābat: gave
+dē: down from/about
+dicēbant: they said
+dicēbat: co said
+diē: on the day
+disputābant: they argued
+arborem: tree
+ascendit: climbs up
+confligunt: they collide
+domitat: tames
+equitāre: to ride
+erit: will be
+gladiōs: swords (acc)
+gladium: sword (acc)
+habent: they have
+inter: among/between
+iuvā: help!
+iterum: again
+laeta: happy
+mūgit: moos
+o: oh!
+porce: oh pig!
+porcō: to the pig/with the pig/etc
+porcum: pig (acc)
+porcus: pig
+proelium: battle
+quis: who?
+quō: to where? by which/with which/etc
+stat: stands
+ubi: where
+vacca: cow
+vaccā: by/with/etc the cow
+vaccam: cow (acc)
+vadit: charges/goes toward
+victor: winner
+vocat: calls
+albus: white
+aliquem: somebody (acc)
+amat: loves
+crepundium: toy
+discēdit: leaves
+discipulō: to/with/by the student
+discipulum: student (acc)
+discipulus: student
+eram: I was
+familia: family
+familiae: of/to the family
+familiā: with/by/etc the family
+improbus: naughty
+ipse: he himself
+lapidem: rock (acc)
+licet: it's allowed
+magistra: teacher (woman)
+magistrā: with/by/etc a teacher (woman)
+magistrae: to/of a teacher; teachers
+nasus: nose
+nēmō: nobody
+niger: black
+nomen: name
+placet: is pleasing
+rapere: to snatch away
+ratī: of the rat; rats
+ratō: to/by/etc the rat
+ratōrum: of the rats
+ratōs: rats (acc)
+ratum: rat (acc)
+ratus: rat
+ruere: to destroy; to fall apart
+servāre: to protect, serve
+sumēbās: you picked up
+sumerī: to be picked up
+suō: their own
+terrā: on/with/by the earth
+unus: one
+vīa: road
+volunt: they want
+sumere: to pick up
+plorat: cries
+ponit: puts
+altissimus: very very tall
+altus: tall
+clamant: they shout
+discipulī: students
+discipulōs: students
+distractione: by means of distraction
+eōrum: of them
+eum: him/it
+expecta: wait!
+ferox: fierce
+forte: by chance
+fugere: to flee
+glaciale: icy (abl)
+glacialem: icy (acc)
+glande: in/on/by means of an acorn
+habitant: they live
+hāc: by means of/in/on this
+hoc: this
+hōc: by means of/in/on this
+immo: on the contrary
+iuvāre: to help
+latrat: barks
+mons: mountain
+monte: by means of/in/on the mountain
+montem: mountain (acc)
+nasum: nose (acc)
+numquam: never
+oceanō: by means of/in/on the ocean
+procul: far away
+pulchram: beautiful
+putabant: they thought
+schola: school/class
+scholā: by means of/in/on school
+sciunt: they know
+scōpīs: by means of/in/on a broom/brooms
+spectat: watches
+sternuit: coughs
+terram: land (acc)
+titillat: tickles
+vaccīs: by means of/in/on cows
+vide: look!
+vident: they look
+viride: green (abl)
+volant: they fly
+volāre: to fly
+voluntne: They're flying...?
+nōn: not/no
+calcitrat: kicks
+cēnant: they dine
+cēnēmus: let's dine!/we might dine
+collēs: hills
+deorsum: downwards
+eius: his/her/its
+equitat: rides
+facit: does/makes/accomplishes
+fracta: broken
+gladiō: by means of/with a sword
+gratiās: thanks
+heroēs: hero
+hostis: enemy
+impetum: attack
+ipsa: herself/the very
+laserō: by means of/with/to a laser
+laserum: laser
+magnīs: big
+maximās: biggest/really big
+mittit: sends/shoots
+mortuus: dead
+mortuusne: dead?
+noster: our
+oppidī: of the town
+oppidō: to/with/by means of the town
+oppidum: town
+per: through
+populum: people
+populus: people
+pulsātur: is punched/hit
+repellit: blocks/repels/pushes back
+roboticīs: robotic
+servābō: I'll save
+supplantat: trips
+surgit: gets up
+terret: scares/terrorizes
+tibi: to you
+tu: you
+unō: with/on/to one
+vestimenta: clothes
+vestimentīs: with/on/to clothes
+videtne: does co see?
+amābat: loved
+amatne: does co love?
+amō: I love
+animalia: animals
+animalibus: with/to/etc animals
+animalium: of animals
+ante: in front of, earlier
+aperī: open!
+aperiās: open!, you might open, you open
+aperiēbat: opened
+audīvit: heard
+aurī: of gold
+aurum: gold
+baculum: stick
+bene: well
+brassicās: cabbages
+cadēbant: they fell
+celere: quickly
+clamantem: shouting
+clausōs: closed
+currēbant: they ran
+currunt: they run
+dāre: to give
+dentēs: teeth
+dentibus: with/to/etc teeth
+dictū: with regard to saying
+dixit: said
+domum: home, to home
+edēbātur: was eaten
+eōs: them
+erant: were
+erat: was
+esuriunt: they're hungry
+etiam: also
+ferunt: they carry/bear
+foede: ugly
+fortunate: fortunately
+gerēbat: they carried, wore
+habētisne: y'all have?
+hī: these
+hominēs: people
+hominum: of people
+huius: of this
+id: it
+īnfāns: baby
+īnfantem: baby
+īnfantis: of the baby
+ingentis: of the huge
+interrogant: they ask
+inveniēbant: they found
+iuva: help!
+iuvāret: co might help/co might've helped
+lacrimae: tears, of a tear, to a tear
+lacrimās: tears
+linter: boat
+lintre: with/on/etc a boat
+longō: with/on/etc a long
+maga: wizard (female)
+magicum: magic
+magnā: with/on/etc a big
+magus: wizard (male)
+mare: sea
+maris: of the sea
+mater: mother
+matrem: mother
+mihi: to me
+mille: thousand
+mīrābile: amazing
+monstre: O monster!
+monstrī: of a monster
+monstrō: with/to/etc a monster
+movēre: to move
+multās: many
+mutet: might change, let co change!
+navigābant: they sailed
+navis: ship
+nōbīs: by/with/to us
+olim: once upon a time, some time later
+omnēs: everyone, all of the
+omnia: everything, all of the
+ordine: by/with/etc a line
+os: mouth
+partēs: parts
+parvō: by/with/to/etc a small
+periērunt: they died
+perterrita: real scared
+petēbant: they sought
+plantās: veggies
+plēna: full
+plorābant: they cried
+plorant: they cry
+poterant: they could
+probī: well-behaved, good
+purpuream: purple
+quam: as, which
+quī: who
+rēx: king
+ruam: I might destroy, let me destroy
+sedēbat: co sat
+sellā: with/on/etc a chair
+semper: always
+si: if
+solās: only, alone
+suam: their own
+subito: suddenly
+sumēbat: co picked up
+suum: their own
+tē: you
+togam: toga, coat, robe
+tuum: your
+utēbatur: co used
+valdē: really, strongly
+vendigonēs: wendigos
+vendigonibus: with/to/etc wendigos
+vendigonis: of the wendigo
+veniēbant: they came
+veniēbat: co came
+ventre: with/in/etc the stomach
+vidēbant: they saw
+vivunt: they live
+vocābat: co called
+volābat: co flew
+volēbant: they wanted
+volō: I want
+aberit: co will be gone
+aliquō: by/to/etc someone/something
+allex: big toe
+allicem: big toe (acc)
+ambulantum: walking (gen. pl)
+ambulāvērunt: they walked
+aperiēbātur: it was being opened
+aperientis: of the opening
+ascendēbant: they ascended
+atrium: atrium, entry-room
+bonus: good
+celābat: hid
+clamā: shout!
+clausit: closed
+conābātur: co tried
+constitērunt: they stopped
+crassus: fat
+cubiculōs: bedrooms
+culīnam: kitchen
+dīxit: co said
+ea: she, those things
+edēbat: co ate
+excītāvit: woke up
+exedram: living room
+extraxit: co pulled out
+extraxitne: did co pull out...?
+fixus: stuck
+fodēbat: co dug
+forem: door
+foris: door
+gemēbat: co groaned
+gemere: to groan
+gradūs: steps, of the step
+habēs: you have
+hominem: person
+hortō: with/by/etc the garden
+inveniet: co shall find
+ius: soup/broth
+lector: reader
+lectum: bed
+mane: morning, in the morning, stay!
+matrī: to mother
+mediā: middle, middle of
+meus: my
+mox: soon
+mundāvērunt: they cleaned
+nocte: at night, in/by/during night
+obdormiam: I'll fall asleep
+obdormīvit: co fell asleep
+oculōs: eyes
+ostiī: of the door
+partam: part
+pater: father
+pede: by/on/etc the foot
+pedēs: feet
+pedum: of feet
+ponam: I'll put
+portābat: co carried
+poterimus: we'll be able to
+prope: near
+propius: closer
+propiusque: and closer
+puer: boy
+putābat: co thought
+repere: crawl
+respondīvit: co responded
+salī: jump!
+scit: knows
+secābat: co cut
+sim: I may be, let me be, I am
+solum: only; floor/ground
+sonum: sound
+sonus: sound
+statim: immediately
+stragulō: by/with/etc blanket
+sub: under/beneath
+suōs: their own
+tandem: finally
+tarde: slowly
+tenebrās: darkness
+timuit: co feared
+trahēbat: co pulled/dragged
+tremuit: co trembled
+trēs: three
+unam: one
+vēnit: co came
+vidētur: seems to be, looks like
+vīdit: co saw
+vocem: voice
+vox: voice
+alcēs: moose
+alia: other/others
+alterum: another/other
+amīcī: friends/of the friend
+amīcīs: by/with/to friends
+aurantia: oranges
+aurantium: orange
+bison: buffalo
+bisonis: of the buffalo
+cerasī: of the cherry, cherries
+cerasōs: cherries (acc)
+cerasum: cherry (acc)
+cibum: food
+collyra: noodles
+collyram: noodles (acc)
+discēdunt: they leave
+emere: to buy
+emit: buys
+ergo: therefore
+eunt: they go
+hīc: here
+hispanā: by/with/etc spanish
+holerarium: market
+iaciunt: they throw
+illīc: there
+ingens: huge
+inveniant: they might find
+invenīre: to find
+linguā: with/by/etc tongue/language
+loquī: to converse
+mūrēs: mice (nom/acc)
+murī: to the mouse
+mūs: mouse
+nesciunt: they don't know
+nōs: we/us
+pecuniam: money (acc)
+plaudunt: they clap
+poma: fruits
+pomum: fruit
+possum: I can
+possumus: we can
+potest: can
+primum: at first, first
+sicut: just like
+sit: may be, is
+solus: alone/only
+suīs: to/with/etc their own
+tabernā: to/with/by/etc the shop
+tabernam: shop (acc)
+tripudiat: does a ritual dance
+bisontis: of the buffalo
+aliā: in/on/with/by/etc other/another
+alius: other/another
+amāmus: we love
+capiēbat: co grabbed/snatched
+carcere: in/by/etc prison
+carcerem: prison
+carceris: of prison
+carnificīna: execution
+corpore: in/by/with/etc body
+corpus: body
+cras: tomorrow
+defendit: defends
+diarium: newspaper
+eāmus: let's go, we might go, we go
+ego: I
+equitantne: are they riding?
+erigit: raises
+eris: you'll be
+euntne: are they going?
+excitat: wakes up
+excitatne: does co wake up?
+exiam: I'll leave
+eximit: draws (like a sword), takes off
+faciunt: they do/make/accomplish
+fiunt: they become
+imperat: orders
+manū: by/with/etc hand
+mea: my
+mēcum: with me (= cum mē)
+morī: to die
+mortua: dead
+necābit: co shall kill
+necant: they kill
+necantne: are they killing?
+necāre: to kill
+necesse: necessary
+necet: co may kill, let co kill, co kills
+nigra: black
+optime: very very well
+parte: with/by/etc part
+parvae: of a small, to a small, small
+porcōs: pigs
+portant: they carry
+praepera: prepare!
+pulsat: hits
+rēgiā: with/by/etc the palace
+rēgiam: palace
+respondet: responds
+salvābimus: we'll save
+serve: O servant/slave!
+servī: of the slave/servant, slaves/servants
+servō: to the slave/servant, with/by/etc slave/servant; I serve
+servōs: servants/slaves
+servus: servant/slave
+sua: their own
+suntne: are...?
+sylvā: with/by/etc forest
+totam: entire
+tū: you
+tua: your
+tuae: your
+tuam: your
+tyrannus: tyrant
+vaccae: of the cow, to the cow, cows
+vaccās: cows
+vel: or
+videat: co might see, let co see, co sees
+vitam: life
+agis: you're doing
+aliōs: others
+aquae: of/to water; waters
+cadant: they might fall, let them fall, they fall
+cadebunt: they'll fall
+calidissimum: really hot, hottest
+capere: to grab, snatch, take
+capiam: I'll grab, snatch, take
+carnālēs: meaty
+carnālibus: to/with/etc meaty
+conātur: tries
+curāre: to worry; to take care of
+curat: worries; takes care of
+da: give!
+dābant: they gave
+dābō: I'll give
+dās: you give
+dō: I give
+edendōs: that should be eaten; to eat
+ēdō: I'm eating
+effundit: pours
+factī: happened; made of
+factōs: happened; made of
+fortasse: maybe
+fructuōsum: fruity
+fructuōsus: fruity
+glaber: hairless
+gustationem: a taste
+improbī: badly-behaved
+improbōs: badly-behaved
+interrogat: asks
+lacū: with/in/etc a lake
+lacum: a lake
+līberī: children; of the child
+līberōs: children
+ligantur: they're tied
+lotor: raccoon
+madidus: wet
+maxima: biggest; really really big
+maximam: biggest; really really big
+meī: of my; my
+meīs: to/with/etc my
+meō: to/with/etc my
+ne: that not; lest
+nolī: don't!
+perterritus: really afraid
+plus: more
+porcī: of the pig; pigs
+pulsāre: to hit
+pulsum: a hit
+pulsus: a hit
+quaesō: please; I beg
+rattus: rat
+rattōs: rats
+robotum: robot
+sequitur: follows
+stulte: O stupid!
+tergō: with/by/to/etc the back
+terrae: of/to the land; lands
+tristis: sad
+tuīs: with/to/etc your
+tuō: with/to/etc your
+vecturam: a ride
+venenatum: poison
+virī: men; of a man
+virīs: to/with/etc men
+hominibus: to/with/etc people
+euge: wooooo!
+mēnsa: table
+mēnsam: table
+audiunt: hear
+cadere: to fall
+cadet: will fall
+caditne: does co fall?
+capit: grabs, snatches, takes
+casū: by chance
+caute: cautiously
+clamosa: loud
+descendit: climbs down
+desinite: stop!
+desinunt: stop
+dum: while
+duō: two
+fēlis: of the cat
+homō: person
+imminente: overhanging
+imminentem: overhanging
+labitur: slips
+maumatio: a meow
+movent: move
+nimis: excessively, too much, lots
+nonne: isn't it the case that?, right?
+perterritum: terrified
+propior: closer
+pugna: a/the fight
+pugnam: a/the fight
+pugnant: fight
+pugnāre: to fight
+pugnatorēs: fighters
+rupe: by/on/etc the cliff/rock
+rupem: cliff/rock
+salvāre: to save, protect
+sapiens: wise
+satis: enough, enough of
+saxō: by/to/etc the big rock
+saxum: big rock
+scivit: co knew
+serī: late
+servābat: co saved/protected
+spectator: spectator; person who is watching
+spectatorem: spectator; person who is watching
+tenentem: holding
+valde: really really; strongly
+vester: y'all's 
+age: go! do!
+aliquis: somebody
+ambulāre: to walk
+ambulat: walks
+capiet: co will grab 
+cēperat: co had grabbed
+conatur: tried
+convivium: party
+cultrum: knife
+debeō: I should
+discedere: to leave
+discedit: leaves
+eam: her
+eō: I go; with/by/etc him/it
+expectat: waits
+falsa: false, untrue
+fuisse: was
+gunnam: skirt
+habe: have! take!
+insana: insane
+manum: hand
+mediō: middle, the middle of
+mortuī: dead
+nemō: nobody
+nobīs: to/from/with/etc us
+noctē: at night, with the night, etc
+nox: night
+nullus: no (as in "no coffee")
+pone: put!
+ponere: to put
+post: behind a thing; after (in time)
+posuerat: co had put
+probābit: will prove
+scholam: class; school
+sepulcretī: of the graveyard; graveyards
+sepulcretō: to/with/by/etc graveyard
+sepulcretum: graveyard
+sta: stand!
+stāre: to stand
+stulta: stupid
+stultus: stupid
+tēcum: with you (cum tē)
+tendet: stretches
+tenet: holds
+timide: fearful; fearfully
+unā: one; together
+vale: bye!
+vera: true; real
+vidēre: to see
+vīs: you want; power
+abstulit: stole
+albī: white
+alterō: by/with/etc the other/another
+ambulans: walking
+ambulantem: walking
+aperit: opens
+bacula: sticks
+baculīs: with/by/to/etc sticks
+carcer: prison
+celant: hide
+celēmus: let's hide!
+cellam: cell
+clave: with/by/etc key
+clavem: key
+cuius: whose, of whom
+custodēs: guards
+defendere: to defend
+effugere: to escape
+equitans: riding
+esse: to be; is
+fugiunt: flee
+fur: thief
+gradēs: steps
+gradibus: with/by/etc steps
+iī: they
+inveniat: co might find; co finds; let co find!
+iuvāte: help, y'all!
+latere: with/by/etc side
+licent: they're permitted
+minutās: minutes
+multa: many; many things
+natēs: butt
+nigrī: black
+parietem: wall
+potestne: can co...?
+regiā: with/by/etc palace
+revenit: returns
+sciō: I know
+susurrat: whispers
+unde: whence? from where?
+venīte: come here, y'all!
+veniunt: come
+visī: seen; have been seen
+visibilēs: visible
+vīsne: do you want...?
+anabathrum: elevator
+ascendere: to climb
+ascendite: climb, y'all!
+ascenditne: does co climb?
+ascendunt: climb
+aspicit: looks at
+catēnās: chains
+cēlat: hides
+consequitur: catches
+desilit: jumps down
+domūs: of the house; houses
+eās: them
+facie: by/with/etc face
+fortis: strong; brave
+hostēs: enemy; enemies
+intrant: enter
+intrat: enters
+intrāte: enter, y'all!
+magica: magical
+manibus: to/by/with/etc hands
+monstrosam: monstrous
+persequitur: chases
+personam: mask; character
+possint: they might be able to; would be able to; are able to
+regis: of the king
+reveniunt: return
+ruit: destroys
+saliunt: jump
+scalās: ladder
+sola: alone; lonely
+sumus: we are
+supra: above
+veterem: old
+vetus: old
+vidēbunt: they'll see
+domus: home
+vir: man
+aedificiī: of the building
+aleam: a die
+alicuius: of somebody/something
+ambulant: walk
+aptam: suitable
+breviter: in short, in a nutshell
+caelō: to/with/etc sky/heaven
+caelum: sky/heaven
+carnalem: meaty/fleshy
+carnalēs: meaty/fleshy
+carnalī: to the meaty/fleshy
+carne: with/etc flesh
+carrōs: carts
+carrum: cart
+carrus: cart
+celābat: co hid/was hiding
+celāre: to hide
+celat: hides
+circum: around
+comburit: burns up
+deus: god
+diariō: with/to/etc newspaper
+discat: co might learn; co learns, let co learn(!)
+discedentem: leaving
+discit: learns
+divī: of the divine
+dormit: sleeps
+equum: horse
+equus: horse
+extinguī: to be extinguished
+facta: made of; things that happened
+faenī: of hay
+faenō: to/with/etc hay
+faenum: hay
+flammeō: to/with/etc flaming
+flammeum: flaming
+forō: to/with/etc the forum
+forum: the forum
+gladius: sword
+globō: to/with/etc a sphere/ball
+globum: sphere/ball
+habitat: lives
+hanc: this
+hūc: to here
+humidō: to/with/etc the wet
+humidum: wet
+iacere: to throw
+icit: strikes/hits
+ignem: fire
+ignis: fire
+illūc: to there
+imber: rain
+imbrem: rain
+imbrī: to the rain
+imbrifer: rain-bearer
+incendere: to light on fire
+incendet: co shall light on fire
+incendit: lights on fire
+incenditur: is lit on fire
+inusitatōs: unusual
+iuliī: of Julius
+lapide: with/etc stone/rock
+lapis: stone/rock
+legit: reads
+lemuramans: lover of lemurs
+lemuramantem: lover of lemurs
+lemurem: lemur
+librōs: books
+ligneum: wooden
+lignō: to/with/etc wood
+lignum: wood
+malōs: evil/bad
+malum: evil/bad
+mirabile: amazing
+modicum: moderate/middling/ok 
+molestōs: annoying
+multī: many; of much
+multōs: many
+multum: much, lotsa
+murum: wall
+nocēre: to hurt
+nullam: no (as in "no coffee")
+obliqua: italic; tilted
+opertī: covered
+optimum: best
+perīta: skilled
+perītus: skilled
+persona: mask (therefore, "character")
+perterritī: terrified
+pessimum: worst
+pluit: it's raining
+possit: co may/might be able to; co can
+puella: girl
+puallam: girl
+pulpum: ground-up meat
+pulpus: ground-up meat
+quae: who/which/which things/they
+quaerit: looks for
+quem: whom; that
+qui: who; that
+rem: thing
+rēs: thing, things
+significant: signify
+simulacrō: to/with/etc the statue
+simulacrum: statue
+spectant: watch/look at
+tabernaculō: to/with/etc the tent
+templa: temples
+templō: to/with/etc the temple
+totō: entire
+totum: entire
+trahit: drags
+unum: one
+velit: co would/might/may want; co wants
+vendere: to sell
+venīre: to come
+verba: words
+vertunt: turn
+vidēbat: co saw
+virō: to/with/etc the man
+virōs: men
+virum: man
+volvit: rolls
+an: or; (sometimes just opens a yes/no question)
+apparet: appears
+barfit: (not a real latin word)
+capiat: may/might grab/snatch/take; let co grab/etc!
+carnale: with/etc meaty/fleshy
+carnalis: meaty, of the meaty
+carnalum: of the meaty (plural)
+carnē: with/etc flesh
+carnem: flesh
+caro: flesh
+corpora: bodies
+corboribus: with/to/etc bodies
+coruscans: flashing/glimmering/shining
+crassa: fat
+crura: lets
+eā: with/etc her
+edat: co might/may eat; co eats
+eīs: to/with/etc them (plural)
+esurit: hungers; is hungry
+factus: made of; became
+femina: woman
+feminam: woman
+fient: become
+fit: becomes
+fluvium: river
+hic: this
+holus: veggie
+hōrum: of these
+illō: with/etc that
+incipit: begins
+ingentem: huge
+interim: meanwhile
+inusitatum: unusual
+invenit: finds
+ipsī: those
+iste: that
+latē: widely, broadly
+lintrem: boat
+magnus: big
+maiorēs: bigger; older; greater
+manducāre: to chew
+melior: better
+momentō: with/etc a moment
+morsō: with/etc a bite
+mutāre: to change
+pars: part
+postquam: after
+pulsantur: are punched/hit
+sal: salt
+sapor: taste
+saporem: taste
+secundum: following; second; according to
+sequuntur: follow
+sint: they may/might be; are; let them be
+spuit: spits
+subitō: suddenly
+sylvam: forest
+tota: entire
+turpe: filthy, gross, ugly, rotten
+turpem: filthy, gross, ugly, rotten
+turpēs: filthy, gross, ugly, rotten
+turpis: filthy, gross, ugly, rotten
+umbrae: of/to the shade; shades
+utrum: whether; (introduces an either/or question)
+veterum: old
+virōrum: of men
+vivit: lives
+vomit: vomits
+arboribus: to/with/etc trees
+corporibus: to/with/etc bodies
+addit: adds
+aeroportum: airport
+aeroportus: airport
+calidam: hot
+coffea: coffee
+complectitur: hugs
+habeō: I have
+harrī: of Harry; Harry's; Harry!
+harriō: to/with/etc Harry
+harrius: Harry
+harrium: Harry
+iacis: you throw
+iecī: I threw
+lacte: with/by/etc milk
+male: badly
+malus: bad/evil; mast (of a ship)
+narrat: tells
+nihil: nothing
+nulla: no (as in "no coffee")
+optima: best
+pecunia: money
+pecuniā: with/etc money
+potuī: I could've; was able 
+quomodo: how?
+retrō: backward
+taberna: shop
+tendere: to reach; extend
+abī: leave!
+alteram: other
+audīre: to hear, hearing
+auribus: to/with/etc ears
+clamor: shout
+consolatur: consoles
+curiosa: curious
+gerit: wears; bears
+haec: this
+hogvartense: in/with/etc Hogwarts
+leniter: gently
+lux: light
+malī: bad/evil
+mirabilis: amazing
+mutābat: changed
+nocēbat: hurt
+nova: new
+novam: new
+novisti: you know
+novō: to/with/etc new
+novum: new
+novus: new
+obscura: dark
+perspicilla: glasses
+porca: pig
+porcam: pig
+pulsandī: of punching
+pulsās: you punch; you're punching
+pulsāverit: punched; might have punched; 
+soror: sister
+agitans: shaking
+alium: another
+alterā: with/etc the other
+altum: tall; deep
+antē: in front of; before
+antequam: before
+basilicae: basilicas
+bracchia: arms
+carrō: with/to/etc the cart
+causam: cause
+cētera: the rest of the things; the other
+clamorem: shout; loud sound
+contra: against
+currere: to run/running
+desinat: co might stop; let co stop; stops
+desinere: to stop/stopping
+desinit: stops
+dicīs: you say/are saying
+dicta: "things said"/maxims/proverbs
+domesticus: home-/house-
+ē: out of
+edunt: eat
+ergō: therefore
+estisne: are y'all...?
+evigilat: wakes up
+extrahunt: drag/pull out
+flammeī: flaming
+flammeus: flaming
+foramen: hole
+globī: spheres
+herōes: heros
+imbris: of the rain
+incendat: co might light on fire, let co light on fire, lights on fire
+incensae: aflame
+infernīs: hell
+ingente: with/etc huge
+ingentēs: huge (pl.)
+iratī: angry (pl.), of the angry
+laborent: they might work, let them work, they work
+laetissimus: happiest; very very happy
+lemur: lemur
+lemuris: of the lemur
+lentē: slowly
+magis: more
+manus: hand
+manūs: of the hand, hands
+miserōs: wretched, miserable (pl)
+naturam: nature
+nolīte: don't...!
+nonnullam: some
+nostrōs: our
+nullō: no (as in "no coffee")
+nummum: coin
+nummus: coin
+nymphus: nymph; elf (sort of)
+oculī: eyes; of the eye
+paene: nearly
+parvum: small
+parvus: small
+pergit: continues
+persuadentur: they are persuaded
+placidē: gently, calmly, peacefully
+praeperat: prepares
+premunt: press
+rapit: snatches away
+rectē: correctly; directly
+requiescere: to rest/resting
+residentem: squatting
+ridens: laughing
+saliens: jumping
+salvete: hello, y'all!
+sanguineam: bloody
+scaenam: scene
+solō: with/to/etc the ground; alone
+somnō: with/to/etc sleep
+sonī: sounds; of the sond
+stoica: Stoic
+stoice: Stoic
+stupefactī: stunned
+stupefactus: stunned
+tace: shut up! quiet!
+trahere: to drag/dragging
+vertit: turns
+vultne: does co want...?
+antea: before, before this; earlier
+apertō: open
+apertum: open
+arbor: tree
+arbusculīs: to/by/etc bushes
+armatus: armed and armored
+capitulī: of the chapter
+catēnīs: to/by/etc chains
+cēpīmus: we took
+compressus: smashed
+cuspem: blade
+cuspis: blade
+descendunt: descended
+duce: with/etc leader/general/duke
+ducem: leader/general/duke
+ducit: leads
+dux: leader/general/duke
+effugiēbat: co escaped
+expectant: wait/await/expect
+frangit: breaks
+fugiēbat: co fled
+gerens: carrying, wearing
+gnoscat: co might find out about/get to know
+gradus: step
+habēre: to have
+horā: with/etc hour
+induit: puts on
+instrumenta: instruments, tools
+intuitur: stares at
+invidet: glares at
+īs: you go, you're going
+ligant: bind, tie up
+locō: with/to/etc place
+locum: place
+mānīcam: glove, sleeve
+mortuōs: dead
+necābimus: we'll kill
+necābīs: you'll kill
+necābō: I'll kill
+nuit: nods
+nuntiat: announces
+omnibus: to/with/etc everyone/everything
+omnium: of everyone/everything
+persequuntur: follow
+proximō: nearest/next
+proximum: nearest/next
+secatura: about to cut
+sivisti: you allowed
+suae: their (subj. of sentence's)
+sumunt: pick up
+tertiā: with/etc third
+tuus: your
+ultra: beyond, more
+vaccārum: of the cows
+velint: they might want; they'd want; they want
+venītē: come, y'all!
+vicunt: conquer, defeat
+visimus: we saw
+aguntur: are happening, are being done
+albam: white
+album: white
+barbam: beard
+baristam: barista
+bibit: drinks
+calida: hot
+fundit: pours
+griffendorensīs: to/with/etc Griffendor
+hostiliter: in an unfriendly mannner
+humidus: wet
+longam: long
+oinkere: to oink (not really)
+paenitet: "accusative_noun + paenitet" = accusative_noun is sorry
+placetne: is it pleasing...?
+pulsavit: co punched
+puncta: points
+terrēre: to scare
+asper: rough
+asperā: rough
+bona: good; good things
+causā: with/etc cause; (causā + GENITIVE: for the sake/purpose of)
+electus: chosen
+fessus: tired
+habuit: co had
+hodie: today
+ignosce: forgive!
+intuātur: co might stare at, let co stare at, co stares at
+meridiationem: nap
+occulte: secretly
+placent: are pleasing
+plorāre: to cry, crying
+porcae: of the pig, to the pig, pigs
+posse: to be able to
+respondēbat: co responded
+simulāre: to pretend
+sine: without
+varium: different; changing/variable
+varius: different; changing/variable
+visne: do you want?
+vixit: co lived
+vocē: with/etc voice
+aedificium: building
+annōs: years
+birota: bike
+birotā: with/etc bike
+birotae: of/to bike; bikes
+birotam: bike
+birotās: bikes
+birotīs: with/to/etc bikes
+catena: chain
+catenam: chain
+claram: shiny, bright, clear
+colloquuntur: talk
+consilium: plan
+cumulō: with/to/etc pile
+delabitur: slips off
+difficile: difficult
+domō: in/with/etc home
+duās: two
+egregiam: amazing, special
+eicere: to throw away
+errābat: co wandered; co made a mistake
+falsum: false; a lie
+fert: carries, bears
+foliōrum: of leaves
+fruitur: enjoys + ABL
+improba: badly-behaved
+intellegit: understands
+laetātur: is happy
+linguam: tongue; language
+mala: evil; bad
+meum: my
+movet: moves
+novae: new
+oleum: oil
+paulum: somewhat; a bit
+pro: for
+propriam: own (as in "their own"); appropriate
+putavit: thought
+reficere: to repair
+reficiendae: repairing, to be repaired
+scruta: trash
+suā: their own
+tabernariō: to/with/etc shopkeeper
+tabernarium: shopkeeper
+vendit: sells
+vetere: old
+veteris: old
+viva: living
+vivam: living
+solbit: loosens; releases/frees
+amīcō: to/with/etc a friend
+autocinetō: to/with/etc car
+autocinetum: car
+capiant: they might grab, let them grab, they grab
+circustabant: they were surrounding
+circumstent: they might surround, let them surround, they surround
+cogit: compels
+cunās: crib
+dormientem: sleeping
+eget: lacks, needs
+faceret: co might do/make, co did/made
+geminīs: to/with/etc twins
+infans: baby
+infantem: baby
+interea: meanwhile
+magnōs: big
+mittere: to send
+monstra: monsters
+multae: many
+murus: wall
+narrāre: to tell
+necabat: co killed
+necantem: killing
+necat: kills
+nonnulla: some
+nonnullī: some
+novī: new
+obrepunt: sneak
+obsessum: beseiged
+obstāre: to impede
+patrem: father
+patruelēs: cousins
+portū: with/etc port/harbor
+praeter: except, by, in front of
+pugnat: fights
+quercibus: to/with/etc oaks
+rapiant: they might snatch away, they snatch away
+regina: queen
+reginae: of/to queen; queens
+reliquum: remaining
+secat: cuts
+servat: protects
+subligaculō: to/with/etc undies
+terribilis: terrible/terrifying
+triginta: 30
+unius: of one
+vāgit: cries like a baby
+vehuntur: are carried
+venator: hunter
+visū: with regard to seeing
+capiebat: co was grabbing/snatching
+circumstabant: they were surrounding
+exceptō: excepted
+agās: you might do/drive, do/drive!, you do/drive
+cantat: sings
+caseum: cheese
+caseus: cheese
+clam: secretly
+claudit: closes
+cunīs: with/to/etc crib/cradle
+curō: I care, am concerned, am taking care of
+dicere: to say
+dormiēbat: co was sleeping
+dulcem: sweet
+duodecim: 12
+duodevigintī: 18
+fabulā: with/etc story
+fumificēs: you might smoke, smoke!, you smoke
+gravior: heavier
+gravis: heavy
+hiat: yawns
+horās: hours
+iacet: lies down, is laying down
+īre: to go
+iuvenis: young person
+malās: bad/evil
+mirātur: is amazed
+natus: having been born, old (as in X years old)
+placentam: cake
+quaerunt: seek, look for
+accipias: you will receive, you may receive, you receive
+annō: with/to/etc year
+brassicam: cabbage
+cadentem: falling
+cadunt: fall
+crus: leg
+crystallum: crystal
+domī: at home
+dominum: master
+duōs: two
+exstat: exists
+gaudet: rejoyce
+intra: within
+inveniam: I shall find, I may find, may I find, I find
+invenias: You shall find, find!, you may find
+nuntiabō: I will announce
+ostium: front door
+pecuniae: of/to money
+quaeram: I will seek, I may seek, may I seek
+quaerere: to seek
+sedet: sits
+sublatō: having been lifted up, having been taken away
+super: above
+torō: with/to/etc couch
+velim: I would want, I want, I may want
+veniant: they might come, they come, let them come
+vincat: co might defeat, co defeats, let co defeat
+vōbīs: to/with/etc y'all
+vulneratur: co is wounded
+adveniunt: arrive
+alta: tall; deep
+altī: tall; deep
+ambo: both
+antrō: to/with/etc cave entrance
+bibebam: I drank, was drinking
+cibus: food
+coffeae: to/of coffee; coffees
+dormīre: to sleep
+dormiunt: sleep
+essent: they might; they might have; they were
+excitant: they wake up; they excite
+exeunt: leave
+facinorēs: adventures
+frangitur: breaks
+habētis: y'all have
+illud: that
+intrāre: to enter
+invēnīmus: we discover
+inveniunt: discover
+licetne: is it permitted...?
+maximī: of the greatest/biggest
+migravit: co migrated/moved
+montēs: mountains
+montibus: to/with/etc mountains
+nescimus: we dunno
+nobis: to/with/etc us
+quaerant: they might seek, they seek, let them seek!
+salutant: greet
+salutat: greets
+salvēte: hey, y'all!
+sciurum: squirrel
+sqiurus: sqiurrel
+secunda: second; favorable
+seriēs: series
+somniīs: with/to/etc dreams
+spelunca: cave
+speluncā: with/etc cave
+speluncae: of/to cave; caves
+speluncam: cave
+vōs: y'all
+vester: y'all's
+balneō: with/to/etc bath(room)
+bonā: with/etc good
+bracās: pants
+bracīs: with/to/etc pants
+capitulum: chapter
+cavete: beware, y'all!
+duae: two
+duodecima: twelve
+expectāre: to wait; waiting
+expergīscitur: wakes up
+extendent: reach out
+extrā: beyond
+facere: to make/do; making/doing
+faciendī: of making/doing
+fessa: tired
+foedum: ugly, gross
+gert: wears; bears
+hem: (a noise you make at someone when you're displeased)
+horae: hours, of the hour, to the hour
+latrinā: in/with/etc toilet
+latrinae: of/to the toilet; toilets
+latrinam: toilet
+latrinās: toilets
+lectulō: with/to/etc little bed
+lectulum: little bed
+malā: with/etc bad
+manent: stay; remain
+mingere: to pee; peeing
+mingit: pees
+nolō: I don't want
+obdormivit: fell asleep
+octavum: eighth
+orbe: with/etc circle/globe
+perfectus: finished
+plorans: crying
+quies: quiet, calm
+sedēre: to sit; sitting
+sedēs: you sit
+stercum: poop
+terrārum: of lands
+utī: to use; using
+voluit: co wanted
+
+
+
+
+
+
+
+
+
+

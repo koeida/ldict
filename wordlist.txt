@@ -1618,13 +1618,88 @@ stercum: poop
 terrārum: of lands
 utī: to use; using
 voluit: co wanted
-
-
-
-
-
-
-
-
-
-
+bonam: good
+brācās: pants
+capitulō: in/to/etc chapter
+cūr: why?
+cūrāre: to care, have concern, worry
+dēbuistī: you should've
+dedisse: to give (in the past)
+dēsinite: stop, y'all!
+dēsinunt: they stop
+dīcis: you say
+dīcit: says
+dīcunt: say
+expectā: wait!
+fābula: story
+faciēbam: I was doing/making, I did/made
+hospes: guest; host
+īrāta: angry
+irātus: angry
+latrinā: with/etc toilet
+lātrīnam: toilet
+modo: just/only
+multiplex: complicated
+mūtat: changes
+nōlī: don't!
+nōmen: name; noun
+plōrāns: crying
+plōrant: cry
+plōrat: cries
+plōrent: they may cry, let them cry, they cry
+potēns: powerful
+prīmō: with/etc first, at first
+puerī: of a boy; boys
+ratiō: reason
+sīvī: I allowed
+tacē: shut up!
+vērō: truly, to/with/etc true
+vērus: true
+vīlis: cheap, bad
+agetis: y'all will do/drive
+ardet: is aflame
+capite: grab, y'all!; with/etc head
+capiunt: grab
+causa: cause
+curia: building where the senate meets
+dicis: you say, are saying
+discedunt: leave
+extinguere: to extinguish
+ferte: bring, y'all!
+foramine: with/etc hole
+foraminis: of the hole
+fundō: with/to/etc bottom
+fundum: bottom
+hama: bucket
+hamā: with/etc bucket
+hamam: bucket
+hamās: buckets
+hamīs: with/to/etc buckets
+hunc: this
+igne: with/etc fire
+lardī: of the (animal) fat
+lardum: animal fat
+liquefactī: of the melted
+liquefactum: melted
+malārum: of the evil (plural)
+narrent: they may tell, they tell, let them tell
+nocet: causes harm
+nomina: names
+nullā: with/etc no (as in no coffee)
+oleī: of oil
+ore: with/etc mouth
+pendet: hangs
+periculōsum: dangerous
+plena: full
+plenas: full
+puellam: girl
+putant: think
+reginam: queen
+reliqui: remaining
+rērum: of things
+revenīre: to return
+senatōrēs: senators
+senatus: the senate
+stultī: stupid
+venite: come, y'all!
+viri: men, of a man

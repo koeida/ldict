@@ -1738,4 +1738,30 @@ pardōrum: of panthers
 pardum: panther
 viā: by/etc road
 volumus: we want
+animālia: animals
+clāmant: shout
+clāmat: shout
+dā: give!
+fenestra: window
+fenestram: window
+fessae: tired; of/to tired
+intelligunt: understand
+īrātum: angry
+īrātus: angry
+longa: long
+loqueris: you talk; you're talking
+mēnsā: on/by/etc table/desk
+molesta: annoying
+rēctē: rightly, correctly
+sīmia: monkey
+sīmiae: of/to monkey; monkeys
+sīmiam: monkey
+sūmit: picks up
+vacua: empty
+vāsa: container
+veniō: I'm coming
+via: road
+vīsū: "as it pertains to sight"
+vultis: y'all want
+
 

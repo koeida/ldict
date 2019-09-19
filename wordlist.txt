@@ -1431,6 +1431,7 @@ autocinetum: car
 capiant: they might grab, let them grab, they grab
 circustabant: they were surrounding
 circumstent: they might surround, let them surround, they surround
+circumstātur: co is surrounded
 cogit: compels
 cunās: crib
 dormientem: sleeping
@@ -1763,5 +1764,228 @@ veniō: I'm coming
 via: road
 vīsū: "as it pertains to sight"
 vultis: y'all want
-
-
+advēnit: co came
+amphibolae: amphibious
+autocinētō: with/to/etc car
+autocinētum: car
+cicumstātur: co is surrounded
+cōnantur: try
+cōnstituit: planned
+dīmidia: half
+dūcunt: lead
+ēicere: to throw out/away
+equitant: ride
+exīre: to leave, get out of
+extendit: stretches, reaches
+fenestrā: with/etc window
+forāmen: hole
+habitāre: to live
+hae: these
+mīrātur: is amazed
+mōnstra: monsters
+mūgiunt: moo
+mūrō: to/with/etc wall
+mūrum: wall
+mūrus: wall
+natāre: to swim
+nēminī: to nobody
+obstat: blocks
+permultae: a lot a lot
+permultās: a lot a lot
+plūs: more
+portum: harbor, port
+pugnantem: fighting
+quōmodo: why?
+rēgīna: queen
+sistite: stop, y'all!
+superet: co might overcome, co overcomes
+turbātae: stirred up (physically or mentally)
+ūna: one; together
+vādunt: charge
+vīsitēmus: we might visit, we visit
+advenit: arrives
+aedificia: buildings
+animadvertat: co might notice; notices; let co notice
+assequuntur: follow
+celer: fast
+comprimere: to squash
+comprimit: squashes
+cōnātur: tries
+cōnsequuntur: catch
+cornibus: to/with/etc horns
+cornū: horn, to/with/etc horn
+flūctūs: waves
+incipiunt: begin
+inclīnat: bends
+īrātaque: and angry
+lenta: slow
+lītus: shore
+magnī: of big
+mīlle: thousand
+natant: swim
+nōnnūlla: some
+passuum: of steps (paces)
+pulsant: hit, beat
+quatit: shakes
+rēgīnae: of/to queen; queens
+rēgīnam: queen
+singulī: each individual
+tangere: to touch
+turbāta: worked up, agitated
+urbem: city
+vasta: empty; huge
+vastā: empty; huge
+accendit: lights on fire; turns on
+adveniat: co might come, let co come, comes
+bracchium: arm
+coriō: to/with/etc skin/leather/hide
+corium: skin/leather/hide
+crūs: leg
+ēheu: *sound of sadness*
+faciem: face
+furētur: co may steal, let co steal, steals
+impingit: bonks
+iuvābō: I'll help
+iuvet: co may help, let co help, helps
+magnās: big
+mōmentō: with/etc/in moment
+mugiunt: moo
+natāns: swimming
+nōnnūllae: some
+nōnnūllī: some
+pectore: with/etc chest
+pendentem: hanging
+premere: to press
+quatitur: is shaken
+quīnque: five
+rēgīnā: with/etc queen
+revēnit: returns
+sūrsum: up
+tergum: back
+terribilēs: terrible, terrifying
+trīste: sadly
+ultimō: with/to/etc last
+umerum: shoulder
+ūnā: together, as one; with/etc one
+ungulās: hooves
+ūnīus: of one
+ūnus: one
+volābit: co shall fly
+āerem: air
+arcus: bow
+collum: neck
+crēdunt: believe/trust
+crūra: legs
+displodente: with/etc the exploding
+displodit: explodes
+effugiāmus: we might escape, let us escape, we escape
+eugē: sweet! I approve!
+haērunt: stick 
+haesus: stuck
+hūmida: wet
+iaciantur: they might be thrown, let them be thrown, they're thrown
+iacitur: is thrown
+inclūsī: closed off, shut in
+intrā: within
+latus: side
+multīs: with/to/etc many
+oculīs: with/to/etc eyes
+ōre: with/etc mouth
+pectoris: of the chest
+prōsilit: jumps/leaps forward
+rēpunt: crawl
+revolant: fly back
+rotam: wheel
+sagittā: with/etc arrow
+sagittāsque: and arrows
+salvat: saves
+salvētur: might co be saved 
+tenebrōsa: dark
+clāmor: shout
+clāmōrem: shout
+cuspidātīs: to/with/etc bladed
+cuspidātōs: bladed
+dabō: I'll give
+dēfendat: defends
+dēmittit: sends down, away
+digitīs: with/to/etc fingers
+digitōs: fingers
+dūcit: leads
+facem: torch
+fax: torch
+furcam: fork
+lapideum: stoney
+lūcet: shines
+mappa: map
+mappam: map
+meam: my
+mōnstrō: to/with/etc monster
+mōnstrum: monster
+ōlim: a while ago, once upon a time
+ossum: of bones
+ōstium: door
+parcē: spare!
+pergunt: continue
+spectā: look!
+spēluncā: with/etc cave
+spēluncae: of/to cave; caves
+titubat: totters
+tollit: carries, picks up
+ūtilis: useful
+vēram: true
+vespertilliō: to/with/etc bat
+vespertillīonem: bat
+viae: of/to road; roads
+vītam: life
+adiuvāre: to help
+amāre: to love
+amās: you love
+aperītur: is opened
+bāsiat: kisses
+bibe: drink!
+bibēbam: I was drinking
+bibet: drinks
+cafeāriī: of or relating to coffee
+coffēā: coffee
+crēdō: I believe
+cūrat: cares; has concern for
+dēdit: co gave
+diēs: day; days
+docēbunt: they'll teach
+docēre: to teach
+dolet: is painful
+ēsurit: hungers
+fīet: shall happen
+frīgida: cold
+frīgidam: cold
+ī: go!
+iānua: entrance
+ingēns: huge
+invenient: they'll find
+magicam: magical
+māla: evil, bad
+malam: evil, bad
+monachī: monks; of monk
+monachōs: monks
+monachus: monk
+monastēriī: of monastery; monasteries
+monastērium: monastery
+noctēs: nights
+obdormit: falls asleep
+oppidīs: with/to/etc towns
+plasticum: plastic
+plēnum: full
+pōnit: puts
+potesne: can you?
+praeses: president
+pulchrum: beautiful
+rīdet: laughs
+serēnum: peaceful; cloudless
+starbuckis: of starbucks
+suprā: above
+tēctō: to/with/etc roof
+tepidum: tepid (neither cool nor hot)
+vacuum: empty
+vās: container
+vāse: with/etc container
+volvitur: is rolled

@@ -15,17 +15,18 @@ def make_dict(lines):
 defs = open("/home/keegan/prog/ldict/wordlist.txt").readlines()
 defs = make_dict(defs)
 
+gen_glossary = len(sys.argv) > 1 and sys.argv[1] == "-g"
+
 not_in_dict = []
 for word in sys.stdin.readlines():
     w = word.strip()
     if w in defs:
-        print("%s: %s" % (w, defs[w]))
+        if gen_glossary:
+            #print("%s: %s" % (w, defs[w]))
+            print('\\textbf{%s:} %s\\\\' %(w, defs[w]))
     else:
         not_in_dict.append(w)
 
-print("")
-print("NOT IN DICT:")
-print("")
-
-for word in not_in_dict:
-    print(word)
+if not gen_glossary:
+    for word in not_in_dict:
+        print(word)

@@ -2164,3 +2164,60 @@ vehiculīs: to/with/etc vehicles
 videntur: they seem, are seen
 viīs: with/etc/to roads
 vocāre: to call
+ac: and
+aliīs: to/with/etc other
+animālium: of animals
+animālibus: to/with/etc animals
+cadat: co might fall/co falls/etc
+callidior: cleverer
+camelopardus: giraffe
+cārō: flesh
+circumambulat: walks around
+dabimus: we'll give
+dant: they give
+eadem: the same
+edere: to eat
+errāvit: wandered, made a mistake
+ēsūrīs: you're hungry
+ēsuriunt: they're hungry
+fāmam: hunger
+feret: co shall bring
+folia: leaves
+furitur: steals
+fūrtum: stolen, theft
+furtus: stolen, theft
+herbivōrātus: "herbivore"
+ille: that, that amazing
+illum: that, that amazing
+iuvat: helps
+iuvēs: you'll help
+lūget: mourns
+maior: bigger
+māle: poorly
+melius: better-ly
+mordent: chew
+necāvit: co killed
+necēmus: we'll kill
+nōbile: noble, known
+nōbilem: noble, known
+nōbilis: of the noble/known
+nūllum: no (as in "no coffee")
+obrēpunt: sneak
+omnem: all, every
+oportet: it is necessary
+pessimō: worst
+prīma: first
+putāvit: co thought
+quamquam: although
+reddēns: giving back
+reddere: to give back
+sapit: tastes
+secundā: second
+septimāna: week
+sī: if
+substultus: a bit stupid
+tertia: third
+tragoediae: of the tragedy
+trīstem: sad
+trīstis: sad
+edēmus: we'll eat
